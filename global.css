@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-allan: Allan;
+  --font-allerta: Allerta;
+  --font-plus-jakarta-sans: "Plus Jakarta Sans";
+
+  /* font sizes */
+  --font-size-xs-8: 0.738rem;
+  --font-size-lg: 1.125rem;
+  --font-size-xl: 1.25rem;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-tomato: #ff5555;
+  --color-black: #000;
+
+  /* Border radiuses */
+  --br-31xl: 50px;
+  --br-5xs: 8px;
+}

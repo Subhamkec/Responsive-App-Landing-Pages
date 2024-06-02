@@ -1,0 +1,423 @@
+.about-us,
+.home {
+  position: relative;
+  line-height: 1.625rem;
+  text-transform: capitalize;
+}
+.home {
+  color: var(--color-tomato);
+}
+.about-us {
+  font-weight: 500;
+}
+.auto-layout-horizontal {
+  position: absolute;
+  top: calc(50% - 13.2px);
+  left: calc(50% - 116.05px);
+  border-radius: var(--br-31xl);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 1.5rem;
+}
+.tm {
+  position: absolute;
+  top: calc(50% - 7.2px);
+  left: calc(50% + 47.9px);
+  font-weight: 800;
+  display: inline-block;
+  width: 0.544rem;
+  height: 0.313rem;
+}
+.vector-icon {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: calc(50% - 12.3px);
+  border-radius: var(--br-31xl);
+  width: 3.981rem;
+  height: 1.831rem;
+}
+.frame-icon,
+.group,
+.group1 {
+  position: absolute;
+  top: calc(50% - 17.2px);
+}
+.frame-icon {
+  left: calc(50% - 51.4px);
+  border-radius: var(--br-31xl);
+  width: 2.056rem;
+  height: 2.125rem;
+  overflow: hidden;
+}
+.group,
+.group1 {
+  left: calc(50% - 56.6px);
+  width: 6.425rem;
+  height: 2.15rem;
+}
+.group {
+  left: calc(50% - 261.95px);
+  width: 7.075rem;
+  font-size: 0.263rem;
+  font-family: var(--font-plus-jakarta-sans);
+}
+.auto-layout-horizontal-parent,
+.group-child {
+  position: absolute;
+  top: calc(50% - 17px);
+  left: calc(50% - 527.5px);
+  width: 32.744rem;
+  height: 2.15rem;
+}
+.group-child {
+  top: calc(50% - 30px);
+  left: calc(50% - 87.1px);
+  border-radius: var(--br-31xl);
+  background-color: var(--color-black);
+  width: 10.888rem;
+  height: 3.75rem;
+}
+.download,
+.download-wrapper {
+  position: absolute;
+  top: calc(50% - 14px);
+  left: calc(50% - 42.6px);
+  width: 5.325rem;
+}
+.download {
+  line-height: 1.75rem;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+}
+.download-wrapper {
+  height: 1.75rem;
+}
+.header,
+.rectangle-parent {
+  position: absolute;
+  height: 3.75rem;
+}
+.rectangle-parent {
+  top: calc(50% - 30px);
+  left: calc(50% + 353.3px);
+  width: 10.888rem;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.header {
+  top: calc(50% - 493px);
+  left: calc(50% - 594px);
+  width: 65.938rem;
+  font-size: var(--font-size-xl);
+}
+.iphone-14-15-pro-max-1-child {
+  position: absolute;
+  top: 6.375rem;
+  left: calc(50% + 39px);
+  width: 45.344rem;
+  height: 45.344rem;
+}
+.iphone-13-pro-front-icon {
+  position: absolute;
+  top: calc(50% - 424.2px);
+  left: calc(50% + 19px);
+  width: 37.569rem;
+  height: 48.731rem;
+  object-fit: contain;
+}
+.cum-et-convallis,
+.make-the-best {
+  position: absolute;
+  left: calc(50% - 621px);
+  text-transform: capitalize;
+  display: inline-block;
+}
+.make-the-best {
+  top: calc(50% - 335px);
+  font-size: 4rem;
+  line-height: 4rem;
+  width: 38.625rem;
+}
+.cum-et-convallis {
+  top: calc(50% - 191px);
+  line-height: 1.75rem;
+  font-weight: 500;
+  width: 39.875rem;
+  opacity: 0.5;
+}
+.iphone-14-15-pro-max-1-item {
+  position: absolute;
+  top: 6.75rem;
+  left: 14.875rem;
+  width: 27.194rem;
+  height: 18.75rem;
+}
+.group-item {
+  position: absolute;
+  top: calc(50% - 30px);
+  left: calc(50% - 90px);
+  border-radius: 4px;
+  background-color: var(--color-black);
+  width: 11.25rem;
+  height: 3.75rem;
+}
+.get-started {
+  position: absolute;
+  top: calc(50% - 14px);
+  left: calc(50% - 67px);
+  line-height: 1.75rem;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.group-inner {
+  position: absolute;
+  top: calc(50% - 0px);
+  left: calc(50% + 43px);
+  max-height: 100%;
+  width: 1.5rem;
+}
+.get-started-parent,
+.rectangle-group {
+  position: absolute;
+  top: calc(50% - 14px);
+  left: calc(50% - 67px);
+  width: 8.375rem;
+  height: 1.75rem;
+}
+.rectangle-group {
+  top: calc(50% - 30px);
+  left: calc(50% - 187px);
+  width: 11.25rem;
+  height: 3.75rem;
+}
+.group-icon,
+.watch-video {
+  position: absolute;
+  top: calc(50% - 14.5px);
+}
+.group-icon {
+  left: calc(50% - 77px);
+  width: 1.813rem;
+  height: 1.813rem;
+}
+.watch-video {
+  left: calc(50% - 34px);
+  line-height: 1.75rem;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.group-container,
+.group-parent {
+  position: absolute;
+  top: calc(50% - 15px);
+  left: calc(50% + 33px);
+  width: 9.625rem;
+  height: 1.813rem;
+  color: var(--color-black);
+}
+.group-parent {
+  top: calc(50% - 98px);
+  left: calc(50% - 617px);
+  width: 23.375rem;
+  height: 3.75rem;
+  color: var(--color-white);
+}
+.rectangle-icon {
+  position: absolute;
+  top: calc(50% + 94.2px);
+  left: calc(50% + 0.25px);
+  border-radius: var(--br-5xs);
+  width: 17.994rem;
+  height: 5.213rem;
+}
+.group-child1 {
+  position: absolute;
+  top: calc(50% + 95.6px);
+  left: calc(50% + 18.15px);
+  width: 3.969rem;
+  height: 4.188rem;
+  object-fit: contain;
+}
+.star-icon {
+  position: absolute;
+  top: calc(50% + 111.8px);
+  left: calc(50% + 88.95px);
+  width: 2.938rem;
+  height: 3.069rem;
+}
+.group-child2,
+.rectangle-div {
+  position: absolute;
+  top: calc(50% + 94.2px);
+  left: calc(50% + 153.65px);
+  background-color: var(--color-black);
+  width: 0.094rem;
+  height: 5.225rem;
+}
+.group-child2 {
+  left: calc(50% + 69.85px);
+}
+.group-child3 {
+  position: absolute;
+  top: calc(50% - 172.9px);
+  left: calc(50% - 53.85px);
+  border-radius: var(--br-5xs);
+  width: 20.913rem;
+  height: 22.206rem;
+  object-fit: contain;
+}
+.group-child4,
+.make-the-best1 {
+  position: absolute;
+  transform-origin: 0 0;
+}
+.make-the-best1 {
+  top: calc(50% + 81.2px);
+  left: calc(50% + 27.95px);
+  line-height: 1.144rem;
+  text-transform: capitalize;
+  font-weight: 600;
+  display: inline-block;
+  width: 14.094rem;
+  height: 1.363rem;
+  transform: rotate(-47deg);
+}
+.group-child4 {
+  top: calc(50% + 110.2px);
+  left: calc(50% - 284.2px);
+  border-radius: 0 var(--br-5xs) var(--br-5xs) 0;
+  background-color: var(--color-black);
+  width: 37.931rem;
+  height: 5.194rem;
+  transform: rotate(-29deg);
+}
+.group-child5 {
+  position: absolute;
+  top: calc(50% - 149.6px);
+  left: calc(50% - 250.4px);
+  width: 30.931rem;
+  height: 18.9rem;
+  object-fit: contain;
+}
+.rectangle-container {
+  position: absolute;
+  top: calc(50% - 184.3px);
+  left: calc(50% - 288.15px);
+  width: 35.525rem;
+  height: 23.038rem;
+}
+.free-trial,
+.uifry-premium {
+  position: absolute;
+  top: calc(50% - 22.65px);
+  left: calc(50% - 48.35px);
+  line-height: 1.144rem;
+  text-transform: capitalize;
+  font-weight: 600;
+  display: inline-block;
+  width: 6.044rem;
+  height: 1.394rem;
+}
+.free-trial {
+  top: calc(50% + 0.35px);
+  font-size: 0.656rem;
+  font-weight: 500;
+  font-family: var(--font-allan);
+  width: 3.444rem;
+}
+.uifry-premium-parent {
+  position: absolute;
+  top: calc(50% + 113.4px);
+  left: calc(50% + 172.75px);
+  width: 6.044rem;
+  height: 2.831rem;
+}
+.vector-parent {
+  top: calc(50% - 210px);
+  left: calc(50% - 256.3px);
+  width: 36.019rem;
+  height: 23.038rem;
+}
+.a,
+.group-div,
+.vector-parent {
+  position: absolute;
+}
+.a {
+  top: calc(50% + 99.1px);
+  left: calc(50% - 320px);
+  font-size: 6.65rem;
+  line-height: 6.649rem;
+  text-transform: capitalize;
+  display: inline-block;
+  font-family: var(--font-allan);
+  width: 6.319rem;
+  height: 7.781rem;
+  transform: rotate(-29deg);
+  transform-origin: 0 0;
+}
+.group-div {
+  top: calc(50% + 29px);
+  left: calc(50% - 643px);
+  width: 40rem;
+  height: 26.25rem;
+  font-size: var(--font-size-xs-8);
+  font-family: var(--font-allerta);
+}
+.iphone-14-15-pro-max-1-inner {
+  position: absolute;
+  top: 5.688rem;
+  left: calc(50% + 587px);
+  width: 4rem;
+  height: 4rem;
+}
+.iphone-14-15-pro-max-1-child1 {
+  position: absolute;
+  top: calc(50% + 237px);
+  left: calc(50% + 104px);
+  width: 4.244rem;
+  height: 4.244rem;
+  object-fit: contain;
+}
+.ellipse-div {
+  position: absolute;
+  top: 54.225rem;
+  left: 70.469rem;
+  filter: blur(103.15px);
+  border-radius: 50%;
+  background-color: var(--color-tomato);
+  width: 11.156rem;
+  height: 13.088rem;
+  transform: rotate(157.3deg);
+  transform-origin: 0 0;
+}
+.iphone-14-15-pro-max-1-child2,
+.iphone-14-15-pro-max-1-child3 {
+  position: absolute;
+  width: 4.244rem;
+  height: 4.244rem;
+  object-fit: contain;
+}
+.iphone-14-15-pro-max-1-child2 {
+  top: 47.688rem;
+  left: 66rem;
+}
+.iphone-14-15-pro-max-1-child3 {
+  top: calc(50% + 71px);
+  left: calc(50% - 460px);
+}
+.iphone-14-15-pro-max-1 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+  height: 67.625rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-allan);
+}
